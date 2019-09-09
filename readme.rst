@@ -1,3 +1,13 @@
+*******************
+Description
+*******************
+
+This project was created to fulfill the apprenticeship task in one of the BUMN 
+that relate in the port sector. There are 3 people working on this project. 
+I contributed to being a hipster in this project. Hopefully this project can 
+be a useful reference for those of you who want to create a Warehouse 
+Inventory Information System
+
 ###################
 What is CodeIgniter
 ###################
